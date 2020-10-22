@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fbbce9b2ccc73298acc43593631f389",
+    "revision": "47194249845f5e39d25da4b9cd57efe9",
     "url": "/preza-demo/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/preza-demo/static/js/2.009f6e67.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b18528775b9e605d8e6",
-    "url": "/preza-demo/static/js/main.6c6baf49.chunk.js"
+    "revision": "c7f2ac566a9dd306a173",
+    "url": "/preza-demo/static/js/main.39da14ce.chunk.js"
   },
   {
     "revision": "c27b56e85925a3139359",
