@@ -2,7 +2,7 @@
   "name": "preza-template",
   "version": "0.1.3",
   "private": true,
-  "homepage": "http://nsbarsukov.github.io/preza-demo",
+  "homepage": "http://nsbarsukov.github.io/",
   "dependencies": {
     "@nsbarsukov/preza": "0.3.25",
     "react": "^16.13.1",
