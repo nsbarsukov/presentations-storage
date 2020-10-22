@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.39da14ce.chunk.js",
-    "main.js.map": "/static/js/main.39da14ce.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.230c9c4f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.230c9c4f.js.map",
-    "static/css/2.36a8d660.chunk.css": "/static/css/2.36a8d660.chunk.css",
-    "static/js/2.009f6e67.chunk.js": "/static/js/2.009f6e67.chunk.js",
-    "static/js/2.009f6e67.chunk.js.map": "/static/js/2.009f6e67.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.567078d8b4b01ded4b0cb7e1b250874c.js": "/precache-manifest.567078d8b4b01ded4b0cb7e1b250874c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.36a8d660.chunk.css.map": "/static/css/2.36a8d660.chunk.css.map",
-    "static/js/2.009f6e67.chunk.js.LICENSE.txt": "/static/js/2.009f6e67.chunk.js.LICENSE.txt",
-    "static/media/black.css": "/static/media/source-sans-pro-semibolditalic.c7e698a4.ttf"
+    "main.js": "/presentations-storage/static/js/main.39da14ce.chunk.js",
+    "main.js.map": "/presentations-storage/static/js/main.39da14ce.chunk.js.map",
+    "runtime-main.js": "/presentations-storage/static/js/runtime-main.529334dd.js",
+    "runtime-main.js.map": "/presentations-storage/static/js/runtime-main.529334dd.js.map",
+    "static/css/2.87566aa5.chunk.css": "/presentations-storage/static/css/2.87566aa5.chunk.css",
+    "static/js/2.009f6e67.chunk.js": "/presentations-storage/static/js/2.009f6e67.chunk.js",
+    "static/js/2.009f6e67.chunk.js.map": "/presentations-storage/static/js/2.009f6e67.chunk.js.map",
+    "index.html": "/presentations-storage/index.html",
+    "precache-manifest.d0ee9cc348cf52c975cc8e34f6962d8f.js": "/presentations-storage/precache-manifest.d0ee9cc348cf52c975cc8e34f6962d8f.js",
+    "service-worker.js": "/presentations-storage/service-worker.js",
+    "static/css/2.87566aa5.chunk.css.map": "/presentations-storage/static/css/2.87566aa5.chunk.css.map",
+    "static/js/2.009f6e67.chunk.js.LICENSE.txt": "/presentations-storage/static/js/2.009f6e67.chunk.js.LICENSE.txt",
+    "static/media/black.css": "/presentations-storage/static/media/source-sans-pro-semibolditalic.c7e698a4.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.230c9c4f.js",
-    "static/css/2.36a8d660.chunk.css",
+    "static/js/runtime-main.529334dd.js",
+    "static/css/2.87566aa5.chunk.css",
     "static/js/2.009f6e67.chunk.js",
     "static/js/main.39da14ce.chunk.js"
   ]
